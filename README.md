@@ -7,7 +7,8 @@ https://docs.google.com/presentation/d/1c3O6lUNAyqHP_c3VOFu_ZcX8dhbGcSdweVySd3kc
 
 # Lambda-Tiler
 ## Serves ZXY service from S3 hosted Cloud Optimized GeoTiffs
-- https//github.com/vincentsarago/lambda-tiler
+- https://github.com/vincentsarago/lambda-tiler
+- https://github.com/vincentsarago/lambda-proxy
 - https://0acq0r75k0.execute-api.us-west-1.amazonaws.com/production/example
 
 # MapProxy Tile Cache
@@ -25,6 +26,11 @@ https://docs.google.com/presentation/d/1c3O6lUNAyqHP_c3VOFu_ZcX8dhbGcSdweVySd3kc
 ## Direct MapBox Vector Tiles from PostGIS served through Python on Lambda
 - https://github.com/bitner/pgvectortiles
 - https://bc21adl1kb.execute-api.us-west-1.amazonaws.com/dev/major_roads/
+
+# Lambda Layers
+- https://github.com/developmentseed/geolambda
+- https://github.com/RemotePixel/amazonlinux-gdal
+- https://github.com/PDAL/lambda
 
 # Other Resources
 - https://serverless.com/
