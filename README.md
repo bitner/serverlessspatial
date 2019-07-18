@@ -3,6 +3,9 @@
 Links for Serverless Spatial talk from FOSS4GNA 2019. Links to live service may well get taken down soon after the conference.
 
 # Presentation
+Video version of the talk from SolSpec Tech Talk Series:
+https://www.youtube.com/watch?v=g_WMDxsuCfk
+
 https://docs.google.com/presentation/d/1c3O6lUNAyqHP_c3VOFu_ZcX8dhbGcSdweVySd3kcyXY/edit?usp=sharing
 
 # Lambda-Tiler
